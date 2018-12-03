@@ -1,0 +1,7 @@
+G:\Study\5 semester\C#\lab3\lab3\lab3\bin\Debug\lab3.exe.config
+G:\Study\5 semester\C#\lab3\lab3\lab3\bin\Debug\lab3.exe
+G:\Study\5 semester\C#\lab3\lab3\lab3\bin\Debug\lab3.pdb
+G:\Study\5 semester\C#\lab3\lab3\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+G:\Study\5 semester\C#\lab3\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+G:\Study\5 semester\C#\lab3\lab3\lab3\obj\Debug\lab3.exe
+G:\Study\5 semester\C#\lab3\lab3\lab3\obj\Debug\lab3.pdb
